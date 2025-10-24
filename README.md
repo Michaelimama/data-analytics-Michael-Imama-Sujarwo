@@ -85,56 +85,58 @@ Hasil analisis divisualisasikan dalam grafik menggunakan matplotlib / plotly, da
 
 1. Genre Fantasi mendominasi, menunjukan minat pasar tertinggi. Namun ini adalah "Zona Nyaman" yang berisiko, mungkin terjebak dalam content bubble yang kurang menarik bagi pembaca non-fiksi, membatasi potensi pertumbuhan audiens yang lebih luas.
 
-** Rekomendasi :
+    **Rekomendasi :
 
-- Buat kurasi "Fantasi yang Mengajarkan Hidup" (seperti LOTR)
-
-- Hadirkan sub-genre: Fantasi Sosial, Fantasi Psikologis, Fantasi Spiritual
+       - Buat kurasi "Fantasi yang Mengajarkan Hidup" (seperti LOTR)
+       - Hadirkan sub-genre: Fantasi Sosial, Fantasi Psikologis, Fantasi Spiritual
 
 2. Mayoritas pengguna menyelesaikan 60–80% buku yang mereka baca. Mereka bukan tidak tertarik untuk menyelesaikanya tetapi mereka merasa telah mendapat inti sari konten tanpa harus menyelesaikan sepenuhnya.
 
- ** Rekomendasi :
-- Rekomendasi konten lanjutan di 80% completion
-- Sistem reward untuk yang mencapai 100% (badges, points, akses eksklusif)
-- Survey kepuasan tepat setelah penyelesaian 100%
+     **Rekomendasi :
+   
+        - Rekomendasi konten lanjutan di 80% completion
+        - Sistem reward untuk yang mencapai 100% (badges, points, akses eksklusif)
+        - Survey kepuasan tepat setelah penyelesaian 100%
 
-3. Buku Paling Teratas adalah "The Lord of the Rings" dari Genre "Fantasy" ini mencerminkan bahwasan nya pembaca tidak hanya lari dari realita — mereka mencari cerita yang membantu memahami kehidupan melalui metafora fantasi.
+4. Buku Paling Teratas adalah "The Lord of the Rings" dari Genre "Fantasy" ini mencerminkan bahwasan nya pembaca tidak hanya lari dari realita — mereka mencari cerita yang membantu memahami kehidupan melalui metafora fantasi.
 
- ** Rekomendasi :
-Manfaatkan popularitas fantasi sebagai pintu masuk ke genre lain
+     **Rekomendasi :
 
-** Buat rekomendasi berantai:
+       Manfaatkan popularitas fantasi sebagai pintu masuk ke genre lain
 
-  - "Jika Anda suka LOTR → coba 'Sapiens' (membangun peradaban)"
-  - "Jika Anda suka Harry Potter → coba 'Psychology of Magic'"
-  - Content bundling: Paket "Fantasi + Non-Fiksi Pendamping"
-  - Serial "Dibalik Magic": Artikel tentang sains di balik konsep fantasi
+     **Buat rekomendasi berantai:
+
+        - "Jika Anda suka LOTR → coba 'Sapiens' (membangun peradaban)"
+        - "Jika Anda suka Harry Potter → coba 'Psychology of Magic'"
+        - Content bundling: Paket "Fantasi + Non-Fiksi Pendamping"
+        - Serial "Dibalik Magic": Artikel tentang sains di balik konsep fantasi
 
 4. Aktivitas membaca meningkat di awal pekan dan pada akhir pekan menunjukan Awal pekan untuk produktivitas, akhir pekan untuk kepuasan diri
 Rekomendasi Strategi: Manfaatkan pola mingguan untuk membangun kebiasaan membaca yang terintegrasi dengan kehidupan pengguna
 
- ** Rekomendasi :
+   **Rekomendasi :
  
-- "Monday Motivation": Konten fantasi epik untuk semangat minggu baru
-- "Weekend Wonder": Cerita pendek fantasi untuk relaksasi
-- Mid-week "Magic Break": Konten ringkat 10 menit di hari Rabu-Kamis
-- Personalized reading schedule berdasarkan historis pola baca
+        - "Monday Motivation": Konten fantasi epik untuk semangat minggu baru
+        - "Weekend Wonder": Cerita pendek fantasi untuk relaksasi
+        - Mid-week "Magic Break": Konten ringkat 10 menit di hari Rabu-Kamis
+        - Personalized reading schedule berdasarkan historis pola baca
    
 5. Segmen “Speed Reader” menunjukkan engagement tertinggi dengan 36.3%. Tidak semua pembaca cepat tercatat sebagai Speed Reader — beberapa justru masuk kategori Inactive karena cara interaksi yang berbeda.
    
-Rekomendasi Strategi: Temukan dan optimasi pembaca diam yang sebenarnya sangat engaged
-Tindakan:
-1. Redefinisi segmentasi berdasarkan:
+    **Rekomendasi Strategi: Temukan dan optimasi pembaca diam yang sebenarnya sangat engaged
+    **Tindakan:
    
-- Redefinisi segmentasi berdasarkan: Completion rate, bukan hanya frekuensi login
-- Pola baca offline dan download
-- Kualitas engagement, bukan kuantitas interaksi
+       1. Redefinisi segmentasi berdasarkan:
+   
+        - Redefinisi segmentasi berdasarkan: Completion rate, bukan hanya frekuensi login
+        - Pola baca offline dan download
+        - Kualitas engagement, bukan kuantitas interaksi
 
-3. "Silent Reader VIP Program" untuk pengguna dengan completion rate tinggi tapi interaksi rendah
+       2. "Silent Reader VIP Program" untuk pengguna dengan completion rate tinggi tapi interaksi rendah
 
-4. Offline reading analytics untuk memahami pola baca tersembunyi
+       3. Offline reading analytics untuk memahami pola baca tersembunyi
 
-5. Personalized re-engagement untuk "Inactive" dengan completion tinggi
+       4. Personalized re-engagement untuk "Inactive" dengan completion tinggi
 
 
 
