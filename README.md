@@ -1,7 +1,7 @@
 # data-analytics-Michael-Imama-Sujarwo
 Analytics About Books
 
-##📖 Deskripsi Singkat
+## 📖 Deskripsi Singkat
 
 Proyek ini bertujuan untuk menganalisis data buku dan perilaku pembaca menggunakan pendekatan data analytics berbasis Python dan SQL.
 Analisis ini membantu mengidentifikasi tren buku dengan genre populer, kebiasaan membaca pengguna, top 5 buku populer, aktivitas pengguna dari waktu ke waktu, serta kemajuan membaca berdasarkan segmen pengguna.
@@ -13,8 +13,10 @@ Analisis ini membantu mengidentifikasi tren buku dengan genre populer, kebiasaan
 2. Analisis visual & SQL query analitik
 3. Dashboard statis (visualisasi akhir)
 
+
 ## ⚙️ Petunjuk Pengaturan (Setup Instructions)
 
+```
 data-analytics-Michael Imama Sujarwo/
 ├── README.md
 ├── data/
@@ -36,6 +38,7 @@ data-analytics-Michael Imama Sujarwo/
 └── scripts/
     ├── data_preparation.py
     └── requirements.txt
+```
 
 ## Menjalankan Project
 Langkah-langkah:
@@ -52,24 +55,25 @@ Menggunakan script sample_data_generator.py untuk membuat data buku dan interaks
 Script data_preparation.py membersihkan data dan serta menormalisasi format kolom.
 Exploratory Data Analysis (EDA)
 
-a. Analisis distribusi genre
-b. Distribusi Tingkat Penyelesaian Pembaca
-c. Top 5 Buku dengan tingkat teratas
-d. Aktivitas pengguna dari waktu ke waktu
-e. Kemajuan membaca berdasarkan Segmen Pengguna
+  - Analisis distribusi genre
+  - Distribusi Tingkat Penyelesaian Pembaca
+  - Top 5 Buku dengan tingkat teratas
+  - Aktivitas pengguna dari waktu ke waktu
+  - Kemajuan membaca berdasarkan Segmen Pengguna
 
 3. SQL Analytical Query
-Query pada analytical_queries.sql digunakan untuk menghitung:
-a. Most Popular Genre
-   Untuk mengetahui genre buku paling populer berdasarkan jumlah buku yang tersedia, serta melihat rata-rata rating per genre
-b. User Reading Statistics
-   Mengukur kinerja membaca tiap pengguna, baik dari jumlah buku yang sudah dibaca maupun rata-rata persentase penyelesaian bacaan.
-c. Top Active Users (by Interactions)
-   Menemukan pengguna paling aktif berdasarkan jumlah interaksi yang mereka lakukan.
-d. Average Reading Rate by User Segment
-   Menganalisis tingkat penyelesaian bacaan rata-rata per segmen pengguna, guna memahami perbedaan perilaku antar kelompok pembaca.
+   
+**Query pada analytical_queries.sql digunakan untuk menghitung:**
+**a. Most Popular Genre**
+   - Untuk mengetahui genre buku paling populer berdasarkan jumlah buku yang tersedia, serta melihat rata-rata rating per genre.
+**b. User Reading Statistics**
+   - Mengukur kinerja membaca tiap pengguna, baik dari jumlah buku yang sudah dibaca maupun rata-rata persentase penyelesaian bacaan.
+**c. Top Active Users (by Interactions)**
+   - Menemukan pengguna paling aktif berdasarkan jumlah interaksi yang mereka lakukan.
+**d. Average Reading Rate by User Segment**
+   - Menganalisis tingkat penyelesaian bacaan rata-rata per segmen pengguna, guna memahami perbedaan perilaku antar kelompok pembaca.
 
-4. Visualization & Dashboard
+5. Visualization & Dashboard
 Hasil analisis divisualisasikan dalam grafik menggunakan matplotlib / plotly, dan disajikan sebagai dashboard statis dashboard.html.
 
 
