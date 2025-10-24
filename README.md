@@ -63,15 +63,19 @@ Exploratory Data Analysis (EDA)
 
 3. SQL Analytical Query
    
-**Query pada analytical_queries.sql digunakan untuk menghitung:**
-**a. Most Popular Genre**
-   - Untuk mengetahui genre buku paling populer berdasarkan jumlah buku yang tersedia, serta melihat rata-rata rating per genre.
-**b. User Reading Statistics**
-   - Mengukur kinerja membaca tiap pengguna, baik dari jumlah buku yang sudah dibaca maupun rata-rata persentase penyelesaian bacaan.
-**c. Top Active Users (by Interactions)**
-   - Menemukan pengguna paling aktif berdasarkan jumlah interaksi yang mereka lakukan.
-**d. Average Reading Rate by User Segment**
-   - Menganalisis tingkat penyelesaian bacaan rata-rata per segmen pengguna, guna memahami perbedaan perilaku antar kelompok pembaca.
+    **Query pada analytical_queries.sql digunakan untuk menghitung:**
+
+    **a. Most Popular Genre**
+       - Untuk mengetahui genre buku paling populer berdasarkan jumlah buku yang tersedia, serta melihat rata-rata rating per genre.
+         
+    **b. User Reading Statistics**
+       - Mengukur kinerja membaca tiap pengguna, baik dari jumlah buku yang sudah dibaca maupun rata-rata persentase penyelesaian bacaan.
+     
+    **c. Top Active Users (by Interactions)**
+       - Menemukan pengguna paling aktif berdasarkan jumlah interaksi yang mereka lakukan.
+     
+    **d. Average Reading Rate by User Segment**
+       - Menganalisis tingkat penyelesaian bacaan rata-rata per segmen pengguna, guna memahami perbedaan perilaku antar kelompok pembaca.
 
 5. Visualization & Dashboard
 Hasil analisis divisualisasikan dalam grafik menggunakan matplotlib / plotly, dan disajikan sebagai dashboard statis dashboard.html.
