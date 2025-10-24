@@ -123,8 +123,9 @@ Rekomendasi Strategi: Manfaatkan pola mingguan untuk membangun kebiasaan membaca
    
 5. Segmen “Speed Reader” menunjukkan engagement tertinggi dengan 36.3%. Tidak semua pembaca cepat tercatat sebagai Speed Reader — beberapa justru masuk kategori Inactive karena cara interaksi yang berbeda.
    
-    **Rekomendasi Strategi: Temukan dan optimasi pembaca diam yang sebenarnya sangat engaged
-    **Tindakan:
+    ####**Rekomendasi Strategi: Temukan dan optimasi pembaca diam yang sebenarnya sangat engaged
+   
+    ####**Tindakan:
    
        1. Redefinisi segmentasi berdasarkan:
    
